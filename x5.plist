@@ -17,7 +17,7 @@
 	
 				<key>url</key>
 					
-<string>http://211.141.83.113:8081/x8/UI2/app.ipa</string>
+<string>http://211.141.83.113:8081/x10/UI2/app.ipa</string>
 			
 	</dict>
 				<dict>
@@ -30,7 +30,7 @@
 				
 	<key>url</key>
 					
-<string>http://www.andonetech.net:8080/x5/UI2/HumanMobileApp/images/app.png</string>
+<string>http://211.141.83.113:8081/x10/UI2/app.png</string>
 	
 			</dict>
 				<dict>
@@ -43,7 +43,7 @@
 <true/>
 					<key>url</key>
 					
-<string>http://www.andonetech.net:8080/x5/UI2/HumanMobileApp/images/app.png</string>
+<string>http://211.141.83.113:8081/x10/UI2/app.png</string>
 	
 			</dict>
 			</array>
@@ -55,13 +55,13 @@
 <string>com.andone.oneapp</string>
 				<key>bundle-version</key>
 		
-		<string>1.1.0</string>
+		<string>1.0.0</string>
 				<key>kind</key>
 			
 	<string>software</string>
 				<key>title</key>
 	
-			<string>测试App</string>
+			<string>物业App</string>
 			</dict>
 	
 	</dict>
