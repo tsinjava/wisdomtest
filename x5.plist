@@ -17,7 +17,7 @@
 	
 				<key>url</key>
 					
-<string>http://211.141.83.113:8081/x10/UI2/app.ipa</string>
+<string>http://211.141.83.115:8082/x15/UI2/app.ipa</string>
 			
 	</dict>
 				<dict>
@@ -52,16 +52,16 @@
 		<dict>
 				<key>bundle-identifier</key>
 				
-<string>com.andone.oneapp</string>
+<string>com.wisdoms.push</string>
 				<key>bundle-version</key>
 		
-		<string>1.0.0</string>
+		<string>2.0.0</string>
 				<key>kind</key>
 			
 	<string>software</string>
 				<key>title</key>
 	
-			<string>物业App</string>
+			<string>智慧物业</string>
 			</dict>
 	
 	</dict>
