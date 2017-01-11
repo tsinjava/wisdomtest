@@ -30,7 +30,7 @@
 				
 	<key>url</key>
 					
-<string></string>
+<string>http://211.141.83.113:8081/x10/UI2/app.png</string>
 	
 			</dict>
 				<dict>
@@ -43,7 +43,7 @@
 <true/>
 					<key>url</key>
 					
-<string></string>
+<string>http://211.141.83.113:8081/x10/UI2/app.png</string>
 	
 			</dict>
 			</array>
@@ -52,7 +52,7 @@
 		<dict>
 				<key>bundle-identifier</key>
 				
-<string>com.wisdoms.push</string>
+<string>com.nuchina.widsom</string>
 				<key>bundle-version</key>
 		
 		<string>3.0.0</string>
