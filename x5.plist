@@ -17,7 +17,7 @@
 	
 				<key>url</key>
 					
-<string>http://211.141.83.115:8082/x25/UI2/app.ipa</string>
+<string>http://211.141.83.103:8093/x30/UI2/app.ipa</string>
 			
 	</dict>
 				<dict>
@@ -52,16 +52,16 @@
 		<dict>
 				<key>bundle-identifier</key>
 				
-<string>com.wisdoms.push</string>
+<string>com.ioshuman.app</string>
 				<key>bundle-version</key>
 		
-		<string>3.0.0</string>
+		<string>1.1.0</string>
 				<key>kind</key>
 			
 	<string>software</string>
 				<key>title</key>
 	
-			<string>智慧物业</string>
+			<string>移动人生</string>
 			</dict>
 	
 	</dict>
